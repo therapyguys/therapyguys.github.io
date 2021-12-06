@@ -1,8 +1,8 @@
 /*
 Theme Name: The Therapy Guys
-Theme URI: http://therapyguys.ca
+Theme URI: https://therapyguys.ca
 Author: Andreea Gheorghe
-Author URI: http://therapyguys.ca
+Author URI: https://therapyguys.ca
 Template: _tk
 Description: TherapyGuys WP Theme
 Version: 1.0.0
@@ -10,7 +10,7 @@ License: Private
 License URI: see license.txt
 Tags: gray, light, two-columns, right-sidebar, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-images, flexible-header, sticky-post,  theme-options, threaded-comments, translation-ready
 
-Uses _tk theme by http://themekraft.com/tk/ by ThemeKraft
+Uses _tk theme by https://themekraft.com/tk/ by ThemeKraft
 */
 
 /* My Minimal WordPress Styling comes here */
@@ -232,7 +232,7 @@ display: block;
 
 /* Hey, if you don't need my comments anymore, just delete me! :)  */
 
-/* navbar http://work.smarchal.com/twbscolor/css/7a7a7acca300000304ffffff0 */
+/* navbar https://work.smarchal.com/twbscolor/css/7a7a7acca300000304ffffff0 */
 .navbar-default {
   background-color: #7a7a7a;
   border-color: #cca300;

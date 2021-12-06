@@ -416,8 +416,8 @@ msgstr "Meta"
 #~ msgid "Chats"
 #~ msgstr "Rozhovor"
 
-#~ msgid "http://wordpress.org/"
-#~ msgstr "http://wordpress.org/"
+#~ msgid "https://wordpress.org/"
+#~ msgstr "https://wordpress.org/"
 
 #~ msgid "Primary Menu"
 #~ msgstr "Hlavné menu"

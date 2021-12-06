@@ -744,8 +744,8 @@ msgstr "Bekijk alle berichen van %s"
 #~ msgid "Facebook"
 #~ msgstr "Facebook"
 
-#~ msgid "complete URL including http://"
-#~ msgstr "volledige URL inclusief http://"
+#~ msgid "complete URL including https://"
+#~ msgstr "volledige URL inclusief https://"
 
 #~ msgid "Foursquare"
 #~ msgstr "Foursquare"
@@ -813,8 +813,8 @@ msgstr "Bekijk alle berichen van %s"
 #~ msgid "Call to action Youtube"
 #~ msgstr "Actieblok YouTube"
 
-#~ msgid "YouTube URL, for example http://youtu.be/y6Sxv-sUYtM"
-#~ msgstr "YouTube URL, bijvoorbeeld http://youtu.be/y6Sxv-sUYtM"
+#~ msgid "YouTube URL, for example https://youtu.be/y6Sxv-sUYtM"
+#~ msgstr "YouTube URL, bijvoorbeeld https://youtu.be/y6Sxv-sUYtM"
 
 #~ msgid "Call to action text"
 #~ msgstr "Actieblok tekst"
